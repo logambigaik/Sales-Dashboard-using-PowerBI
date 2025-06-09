@@ -1,17 +1,7 @@
 # 📊 Sales Dashboard – Power BI Project
 
 > _“Turning raw sales data into powerful business stories!”_
-
-![Thank You](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG43dXh6NmNkdGZiZmVvNXNsM2gzd2gyc3dueDMyMnZkMm1xMWdnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wIVA0zh5pt0G5YtcAL/giphy.gif)
-
 ---
-
-## 🙋‍♀️ About Me
-
-Hi, I'm **Logambigai Kuppusamy** – a passionate **Data Analyst** who loves transforming complex data into clear, meaningful dashboards. This project reflects my **problem-solving mindset**, **attention to detail**, and **end-to-end project handling** using **Power BI** and **Excel**.
-
----
-
 ## 🔍 Project Overview
 
 This is an **interactive and dynamic Sales Dashboard** built using Power BI. It visualizes data from a structured Excel source to reveal **insights on sales, profit, categories, and regions** – helping stakeholders make data-driven decisions.
@@ -96,16 +86,14 @@ This is an **interactive and dynamic Sales Dashboard** built using Power BI. It 
 
 ## 📎 Screenshots
 
-![Overview Screenshot](https://github.com/user-attachments/assets/5a66e3aa-6c18-4713-a198-bc9aa2212ae3)
+![Zooming Dashboard][Overview Screenshot](https://github.com/user-attachments/assets/5a66e3aa-6c18-4713-a198-bc9aa2212ae3)
 ![Product Performance](https://github.com/user-attachments/assets/85f0c41b-ef8d-4a01-b716-3bd847969247)
 
 ---
 
 ## 🙌 Final Thoughts
 
-This project is more than a dashboard—it's a showcase of my ability to handle real-world data, communicate insights, and build professional BI solutions.  
-Thanks for checking it out! 😊
+Thanks so much for checking out my Power BI dashboard! I hope you found it insightful and enjoyable.
 
----
+![Dashboard Done Right](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
 
-🔗 _Created with ❤️ by Logambigai Kuppusamy_

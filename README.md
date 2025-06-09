@@ -1,5 +1,5 @@
-Sales Dashboard - Power BI Project
-
+###**Sales Dashboard - Power BI Project
+**
 📊 Project Overview
 
 This project showcases my data visualization and business intelligence skills using Power BI. I have built a comprehensive and interactive sales dashboard using the Sales Dataset.xlsx to help analyze trends in sales and profitability across categories, years, and countries.

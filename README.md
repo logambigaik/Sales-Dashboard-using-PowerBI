@@ -1,69 +1,88 @@
-# 📊 Sales Dashboard – Power BI Project  
-> _"Because spreadsheets deserve to feel pretty too!"_
+# 📊 Sales Dashboard - Power BI Project
 
-![Dashboard Snapshot 1](https://github.com/user-attachments/assets/5a66e3aa-6c18-4713-a198-bc9aa2212ae3)  
-![Dashboard Snapshot 2](https://github.com/user-attachments/assets/85f0c41b-ef8d-4a01-b716-3bd847969247)
+
+### 💼 Overall Sales Performance Dashboard
+
+![Sales Overview](https://github.com/user-attachments/assets/5a66e3aa-6c18-4713-a198-bc9aa2212ae3)
+
+> This dashboard gives a high-level summary of sales, profit, and KPIs. It includes:
+> - 💹 KPI Cards: Profit and Sales figures
+> - 📊 Sales breakdown by Product Category & Customer Segment
+> - 📅 Trends over time for Sales and Profit (line chart)
+> - 🌍 Map showing Profit by Country — go global!
 
 ---
 
-## 🎯 Project Overview
+### 🥇 Top Products & Profit Distribution
 
-Welcome to my **Power BI Sales Dashboard** – your one-stop shop for exploring who’s buying what, when, and how much profit it’s bringing in. Whether you're a data nerd or just love colorful graphs, this one’s for you. 📈✨
+![Product Performance](https://github.com/user-attachments/assets/85f0c41b-ef8d-4a01-b716-3bd847969247)
+
+> This view dives into:
+> - 🍩 A vibrant donut chart highlighting the most profitable products
+> - 📍 Country-level profitability insights with filters/slicers
+> - A super clean layout that makes insights easy to grab at a glance!
+
+---
+## 🧾 Project Overview
+
+This project showcases my data visualization and business intelligence skills using **Power BI**. I have built a comprehensive and interactive **Sales Dashboard** using `Sales Dataset.xlsx` to help analyze trends in **sales** and **profitability** across **categories**, **years**, and **countries**.
 
 ---
 
 ## 🛠️ Tools Used
 
-- **Power BI** – because Excel needed a glow-up  
-- **Microsoft Excel** – for good ol' data cleaning and prep
+- **Power BI** – for data modeling, report building, and interactive visualizations  
+- **Microsoft Excel** – for data cleaning, preparation, and initial exploration  
 
 ---
 
-## 🔍 Dashboard Highlights
+## 🔍 Dashboard Insights
 
-✅ **Total Sales by Category**  
-Bar charts that show how well Technology, Office Supplies, and Furniture are doing — including who's buying them (Consumer, Corporate, Home Office). Spoiler alert: Everyone loves chairs.
+### ✅ Total Sales by Category  
+A stacked bar chart visualizes **sales by product category** (Technology, Office Supplies, Furniture) and by **customer segment** (Consumer, Corporate, Home Office).
 
-📈 **Profit and Sales by Year**  
-A fancy dual-axis line chart that reveals how sales and profit climbed from 2011 to 2014. Growth = good, right?
+### 📈 Profit and Sales by Year  
+A dual-axis line chart tracks **annual trends in sales and profit** from **2011 to 2014**, revealing consistent growth.
 
-🌍 **Profit by Country**  
-Map view because data looks cooler when it’s on a globe. Hover to explore!
+### 🌍 Profit by Country  
+An interactive **map visual** highlights **country-wise profit distribution** across Europe.
 
-🍩 **Top Profitable Products**  
-Donut chart – yes, it looks delicious – showing the top 5 cash cows in the product lineup.
+### 🥇 Highest Profitable Products  
+A **donut chart** highlights the **top five products** with the highest **profit margins**.
 
-📌 **KPI Cards**  
-- 💰 Total Profit: **283K**  
-- 🛒 Total Sales: **2M**  
-Because what's a dashboard without big numbers in bold fonts?
+### 📌 KPIs  
+- **Total Profit**: $283K  
+- **Total Sales**: $2M  
 
 ---
 
 ## 💡 Skills Demonstrated
 
-### 🔧 Excel Magic
-- VLOOKUP wizardry, IFs and SUMIFs  
-- PivotTables (a.k.a. spreadsheet superpowers)  
-- Data cleanup without tantrums
+### 🔧 Excel
+- Data cleaning and transformation  
+- Use of functions like `VLOOKUP`, `IF`, `TEXT`, `SUMIF`, and **PivotTables**  
+- Filtering, sorting, and deduplication  
+- Structuring data for Power BI import  
 
-### 📊 Power BI Wizardry
-- Data modeling like a pro  
-- KPI cards, slicers, and interactive visuals  
-- Color coordination that would make a designer proud
+### 📊 Power BI
+- Data modeling and relationship building  
+- Creating **KPI cards**, **map visuals**, **line charts**, **bar charts**, and **donut charts**  
+- Designing **interactive dashboards** with slicers and filters  
+- Applying consistent formatting and layout for **storytelling**  
+- Building **user-friendly** and **visually engaging** reports  
 
 ---
 
-## 📁 Dataset Fields
+## 📁 Dataset
 
-This project includes juicy details like:
-- Product Category & Sub-Category  
+The dataset includes fields such as:
+- Product Category and Sub-Category  
 - Customer Segment  
-- Country & Region  
-- Sales, Profit, Order & Ship Dates  
-- Product and Customer IDs
+- Country and Region  
+- Sales and Profit  
+- Order Dates and Ship Dates  
+- Product and Customer IDs  
 
 ---
 
-Made with ☕, 💡, and lots of right-clicks.  
-Created using **Power BI** & **Excel** | By *Logambigai Kuppusamy*
+**Created with Power BI and Excel | By Logambigai Kuppusamy**

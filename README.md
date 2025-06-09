@@ -1,7 +1,6 @@
 # 📊 Sales Dashboard - Power BI Project
 
 ![image](https://github.com/user-attachments/assets/5a66e3aa-6c18-4713-a198-bc9aa2212ae3)
-
 ![image](https://github.com/user-attachments/assets/85f0c41b-ef8d-4a01-b716-3bd847969247)
 
 
@@ -69,3 +68,4 @@ The dataset includes fields such as:
 ---
 
 **Created with Power BI and Excel | By Logambigai Kuppusamy**
+![Thank you GIF](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)

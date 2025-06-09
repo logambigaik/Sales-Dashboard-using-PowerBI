@@ -1,5 +1,10 @@
 # 📊 Sales Dashboard - Power BI Project
 
+![image](https://github.com/user-attachments/assets/5a66e3aa-6c18-4713-a198-bc9aa2212ae3)
+![image](https://github.com/user-attachments/assets/85f0c41b-ef8d-4a01-b716-3bd847969247)
+
+
+
 ## 🧾 Project Overview
 
 This project showcases my data visualization and business intelligence skills using **Power BI**. I have built a comprehensive and interactive **Sales Dashboard** using `Sales Dataset.xlsx` to help analyze trends in **sales** and **profitability** across **categories**, **years**, and **countries**.

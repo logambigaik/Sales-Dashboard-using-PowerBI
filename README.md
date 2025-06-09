@@ -89,13 +89,6 @@ This is an **interactive and dynamic Sales Dashboard** built using Power BI. It 
 ![Overview Screenshot](https://github.com/user-attachments/assets/5a66e3aa-6c18-4713-a198-bc9aa2212ae3)
 ![Product Performance](https://github.com/user-attachments/assets/85f0c41b-ef8d-4a01-b716-3bd847969247)
 
-
-
-![Dashboard Preview](./assets/dashboard-preview.png)
-
-[![Zoomable](./assets/preview-small.png)](./assets/preview-large.png)
-
-<img src="./assets/dashboard-demo.gif" width="600" />
 ---
 
 ## 🙌 Final Thoughts

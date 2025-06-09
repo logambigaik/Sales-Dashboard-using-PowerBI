@@ -94,5 +94,5 @@ This is an **interactive and dynamic Sales Dashboard** built using Power BI. It 
 ## 🙌 Final Thoughts
 
 Thanks so much for checking out my Power BI dashboard! I hope you found it insightful and enjoyable.
-![Dashboard Done Right](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
+![Animated Bar Chart](https://media.giphy.com/media/l0MYwONBGDS7aPGOk/giphy.gif)
 

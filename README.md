@@ -84,7 +84,7 @@ This is an **interactive and dynamic Sales Dashboard** built using Power BI. It 
 
 ---
 
-## 📎 Screenshots
+## 📎 Dashboard Preview
 
 ![Overview Screenshot](https://github.com/user-attachments/assets/5a66e3aa-6c18-4713-a198-bc9aa2212ae3)
 ![Product Performance](https://github.com/user-attachments/assets/85f0c41b-ef8d-4a01-b716-3bd847969247)
@@ -101,6 +101,3 @@ This is an **interactive and dynamic Sales Dashboard** built using Power BI. It 
 ## 🙌 Final Thoughts
 
 Thanks so much for checking out my Power BI dashboard! I hope you found it insightful and enjoyable.
-![Power BI Logo]![image](https://github.com/user-attachments/assets/97c0d3c2-59f7-4330-b53f-8cde46fa078f)
-
-

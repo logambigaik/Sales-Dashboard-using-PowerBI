@@ -18,9 +18,10 @@
 ![Product Performance](https://github.com/user-attachments/assets/85f0c41b-ef8d-4a01-b716-3bd847969247)
 
 > This view dives into:
-> - 🍩 A vibrant donut chart highlighting the most profitable products
-> - 📍 Country-level profitability insights with filters/slicers
-> - A super clean layout that makes insights easy to grab at a glance!
+> - 💼 Clear visual breakdowns of product performance
+> - 📈 Sorted profit values to easily spot top-performing products
+> - 🎯 Interactive filters to let you explore specific segments
+> - ✨ Minimalist layout for quick, no-squint insights
 
 ---
 ## 🧾 Project Overview

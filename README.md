@@ -84,15 +84,6 @@ This is an **interactive and dynamic Sales Dashboard** built using Power BI. It 
 
 ---
 
-## 🚀 What's Next?
-
-- Add forecasting and time-series decomposition  
-- Publish to Power BI Service for broader access  
-- Include role-level security and mobile layout
-
----
-
-
 ## 🙌 Final Thoughts
 
 Thanks so much for checking out my Power BI dashboard! I hope you found it insightful and enjoyable.

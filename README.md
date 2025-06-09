@@ -1,29 +1,5 @@
 # 📊 Sales Dashboard - Power BI Project
 
-
-### 💼 Overall Sales Performance Dashboard
-
-![Sales Overview](https://github.com/user-attachments/assets/5a66e3aa-6c18-4713-a198-bc9aa2212ae3)
-
-> This dashboard gives a high-level summary of sales, profit, and KPIs. It includes:
-> - 💹 KPI Cards: Profit and Sales figures
-> - 📊 Sales breakdown by Product Category & Customer Segment
-> - 📅 Trends over time for Sales and Profit (line chart)
-> - 🌍 Map showing Profit by Country — go global!
-
----
-
-### 🥇 Top Products & Profit Distribution
-
-![Product Performance](https://github.com/user-attachments/assets/85f0c41b-ef8d-4a01-b716-3bd847969247)
-
-> This view dives into:
-> - 💼 Clear visual breakdowns of product performance
-> - 📈 Sorted profit values to easily spot top-performing products
-> - 🎯 Interactive filters to let you explore specific segments
-> - ✨ Minimalist layout for quick, no-squint insights
-
----
 ## 🧾 Project Overview
 
 This project showcases my data visualization and business intelligence skills using **Power BI**. I have built a comprehensive and interactive **Sales Dashboard** using `Sales Dataset.xlsx` to help analyze trends in **sales** and **profitability** across **categories**, **years**, and **countries**.
@@ -37,6 +13,32 @@ This project showcases my data visualization and business intelligence skills us
 
 ---
 
+### 💼 Overall Sales Performance Dashboard
+
+![Sales Overview](https://github.com/user-attachments/assets/5a66e3aa-6c18-4713-a198-bc9aa2212ae3)
+
+> This dashboard gives a high-level summary of sales, profit, and KPIs. It includes:
+> - 💹 KPI Cards: Profit and Sales figures
+> - 📊 Sales breakdown by Product Category & Customer Segment
+> - 📅 Trends over time for Sales and Profit (line chart)
+> - 🌍 Map showing Profit by Country — go global!
+
+---
+
+### 🥇 Top Products & Profit Distribution Dashboard
+
+![Product Performance](https://github.com/user-attachments/assets/85f0c41b-ef8d-4a01-b716-3bd847969247)
+
+> This view dives into:
+> - 💼 Clear visual breakdowns of product performance
+> - 📈 Sorted profit values to easily spot top-performing products
+> - 🎯 Interactive filters to let you explore specific segments
+> - ✨ Minimalist layout for quick, no-squint insights
+
+---
+
+
+---
 ## 🔍 Dashboard Insights
 
 ### ✅ Total Sales by Category  
@@ -56,6 +58,9 @@ A **donut chart** highlights the **top five products** with the highest **profit
 - **Total Sales**: $2M  
 
 ---
+
+
+
 
 ## 💡 Skills Demonstrated
 

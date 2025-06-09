@@ -68,4 +68,4 @@ The dataset includes fields such as:
 ---
 
 **Created with Power BI and Excel | By Logambigai Kuppusamy**
-![Thank You - Girl Style](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG43dXh6NmNkdGZiZmVvNXNsM2gzd2gyc3dueDMyMnZkMm1xMWdnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wIVA0zh5pt0G5YtcAL/giphy.gif

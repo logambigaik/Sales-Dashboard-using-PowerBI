@@ -1,30 +1,69 @@
----
+# 📊 Sales Dashboard – Power BI Project  
+> _"Because spreadsheets deserve to feel pretty too!"_
 
-## 📸 Dashboard Screenshots
-
-### 💼 Overall Sales Performance Dashboard
-
-![Sales Overview](https://github.com/user-attachments/assets/5a66e3aa-6c18-4713-a198-bc9aa2212ae3)
-
-> This dashboard gives a high-level summary of sales, profit, and KPIs. It includes:
-> - 💹 KPI Cards: Profit and Sales figures
-> - 📊 Sales breakdown by Product Category & Customer Segment
-> - 📅 Trends over time for Sales and Profit (line chart)
-> - 🌍 Map showing Profit by Country — go global!
+![Dashboard Snapshot 1](https://github.com/user-attachments/assets/5a66e3aa-6c18-4713-a198-bc9aa2212ae3)  
+![Dashboard Snapshot 2](https://github.com/user-attachments/assets/85f0c41b-ef8d-4a01-b716-3bd847969247)
 
 ---
 
-### 🥇 Top Products & Profit Distribution
+## 🎯 Project Overview
 
-![Product Performance](https://github.com/user-attachments/assets/85f0c41b-ef8d-4a01-b716-3bd847969247)
-
-> This view dives into:
-> - 🍩 A vibrant donut chart highlighting the most profitable products
-> - 📍 Country-level profitability insights with filters/slicers
-> - A super clean layout that makes insights easy to grab at a glance!
+Welcome to my **Power BI Sales Dashboard** – your one-stop shop for exploring who’s buying what, when, and how much profit it’s bringing in. Whether you're a data nerd or just love colorful graphs, this one’s for you. 📈✨
 
 ---
 
-> _“Dashboards should tell a story — this one says, ‘I know my data and I know how to show it off!’_ 💁‍♀️✨
+## 🛠️ Tools Used
 
-![Thank You - Girl Style](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+- **Power BI** – because Excel needed a glow-up  
+- **Microsoft Excel** – for good ol' data cleaning and prep
+
+---
+
+## 🔍 Dashboard Highlights
+
+✅ **Total Sales by Category**  
+Bar charts that show how well Technology, Office Supplies, and Furniture are doing — including who's buying them (Consumer, Corporate, Home Office). Spoiler alert: Everyone loves chairs.
+
+📈 **Profit and Sales by Year**  
+A fancy dual-axis line chart that reveals how sales and profit climbed from 2011 to 2014. Growth = good, right?
+
+🌍 **Profit by Country**  
+Map view because data looks cooler when it’s on a globe. Hover to explore!
+
+🍩 **Top Profitable Products**  
+Donut chart – yes, it looks delicious – showing the top 5 cash cows in the product lineup.
+
+📌 **KPI Cards**  
+- 💰 Total Profit: **283K**  
+- 🛒 Total Sales: **2M**  
+Because what's a dashboard without big numbers in bold fonts?
+
+---
+
+## 💡 Skills Demonstrated
+
+### 🔧 Excel Magic
+- VLOOKUP wizardry, IFs and SUMIFs  
+- PivotTables (a.k.a. spreadsheet superpowers)  
+- Data cleanup without tantrums
+
+### 📊 Power BI Wizardry
+- Data modeling like a pro  
+- KPI cards, slicers, and interactive visuals  
+- Color coordination that would make a designer proud
+
+---
+
+## 📁 Dataset Fields
+
+This project includes juicy details like:
+- Product Category & Sub-Category  
+- Customer Segment  
+- Country & Region  
+- Sales, Profit, Order & Ship Dates  
+- Product and Customer IDs
+
+---
+
+Made with ☕, 💡, and lots of right-clicks.  
+Created using **Power BI** & **Excel** | By *Logambigai Kuppusamy*

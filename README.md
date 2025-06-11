@@ -32,7 +32,7 @@ This is an **interactive and dynamic Sales Dashboard** built using Power BI. It 
 
 ## 📎 Dashboard Preview
 
-Link for my dasboard :https://app.powerbi.com/view?r=eyJrIjoiNDYyMDkyYzAtMDZiNi00MjhjLTllNGMtODRiNDE2NjM3OTAyIiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9
+Check out my [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDYyMDkyYzAtMDZiNi00MjhjLTllNGMtODRiNDE2NjM3OTAyIiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9)
 
 ![Overview Screenshot](https://github.com/user-attachments/assets/5a66e3aa-6c18-4713-a198-bc9aa2212ae3)
 
